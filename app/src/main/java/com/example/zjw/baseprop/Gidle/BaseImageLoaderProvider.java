@@ -14,7 +14,6 @@ import java.io.File;
  */
 public abstract class BaseImageLoaderProvider {
     public abstract void loadImage(Context ctx, ImageLoader img);
-
     public static void displayImage(Context context, String url, ImageView imageView) {
         Glide.with(context)
                 .load(url)
