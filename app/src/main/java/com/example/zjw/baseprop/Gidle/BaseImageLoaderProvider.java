@@ -4,7 +4,7 @@ import android.content.Context;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
-import com.taoqianke.app.R;
+import com.example.zjw.baseprop.R;
 
 import java.io.File;
 
